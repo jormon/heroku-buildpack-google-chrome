@@ -56,3 +56,5 @@ Capybara.register_driver :chrome do |app|
   )
 end
 ```
+
+For an example that drives chrome through selenium (and watir), check out [this example](https://github.com/jormon/minimal-chrome-on-heroku) which has a one-button deploy to test with.
